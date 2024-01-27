@@ -1,0 +1,28 @@
+# Blossom Alacritty Theme
+colors:
+  # Default colors
+  primary:
+    background: '0x10111b'
+    foreground: '0xff058d'
+
+  # Normal colors
+  normal:
+    black:   '0x01060E'
+    red:     '0xf70047'
+    green:   '0x00ff7d'
+    yellow:  '0xFCDD42'
+    blue:    '0x26b3d2'
+    magenta: '0x9200ff'
+    cyan:    '0xea748f'
+    white:   '0xd3d7cf'
+
+  # Bright colors
+  bright:
+    black:   '0x686868'
+    red:     '0xff5555'
+    green:   '0x55ff55'
+    yellow:  '0xffff55'
+    blue:    '0x729fcf'
+    magenta: '0xff0eff'
+    cyan:    '0x34e2e2'
+    white:   '0xeeeeec'
